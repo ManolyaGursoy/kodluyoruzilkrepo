@@ -6,7 +6,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo.
 (Buraya sizin reponuzdan aldığınız link gelecek).
 
 ```
-git clone https://github.com/ManolyaGursoy/kodluyoruzilkrepo
+git clone https://github.com/ManolyaGursoy/kodluyoruzilkrepo.git
 ```
 
 # **Usage**
