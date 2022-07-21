@@ -1,6 +1,6 @@
 # **Kodluyoruz İlk Repo**
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo.
-İçerisinde bir adet README.md dosyası, bir adet de index.html dosyası barındırıyor.
+İçerisinde bir adet README.md dosyası, bir adet index.html dosyası ve bir de görsel barındırıyor.
 
 ![](git-kodluyoruz-ss.png)
 
