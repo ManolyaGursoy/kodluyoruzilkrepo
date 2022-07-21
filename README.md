@@ -1,6 +1,9 @@
 # **Kodluyoruz İlk Repo**
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo.
 İçerisinde bir adet README.md dosyası, bir adet de index.html dosyası barındırıyor.
+
+![](git-kodluyoruz-ss.png)
+
 # **Installation**
 Öncelikle projeyi clone'layın. 
 (Buraya sizin reponuzdan aldığınız link gelecek).
